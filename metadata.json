@@ -1,0 +1,8 @@
+{
+  "name": "RiasatTrace",
+  "description": "RiasatTrace: Free open-source intelligence (OSINT) and identity investigation platform. Reverse lookup emails, phone numbers, connected profiles, Google footprint, domain deliverability, and breach exposures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
