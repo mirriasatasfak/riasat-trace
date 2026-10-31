@@ -1,12 +1,11 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/1b871d80-5e7d-4184-9df1-5b77e3433a30" />
 </div>
 
-# Run and deploy your AI Studio app
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/63366d5e-336d-4e1c-87b4-6cae41be8f04
+View your app in AI Studio: https://remix-osint-the-riasat-email-573256569519.asia-east1.run.app
 
 ## Run Locally
 
