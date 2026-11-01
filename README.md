@@ -1,7 +1,9 @@
 <div align="center">
 <img width="1535" height="716" alt="Screenshot 2026-10-31 213405" src="https://github.com/user-attachments/assets/e188e4fa-503c-4122-9951-f3c994f346db" />
 </div>
-
+<div align="center">
+<img width="1535" height="716" alt="Screenshot 2026-10-31 213405" src="https://github.com/user-attachments/assets/da13faa5-a324-4263-aee8-f2d2342fa0ff" />
+</div>
 
 This contains everything you need to run your app locally.
 
